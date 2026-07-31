@@ -1,6 +1,6 @@
 # Newly Registered Domains
 
-![Search newly registered domains, 16 million+ names across 1,000+ gTLDs](browser_all.png)
+![Search newly registered domains, 16 million+ names from the last 60 days across 1,000+ gTLDs](browser_all.png)
 
 More than 200,000 domains are registered every day across 1,000+ gTLDs. Whoever sees them first has the advantage: brand owners spot lookalikes before they go live, security teams catch phishing infrastructure at hour zero, SEO professionals and investors find valuable names before anyone else bids.
 
@@ -10,7 +10,7 @@ More than 200,000 domains are registered every day across 1,000+ gTLDs. Whoever 
 
 **[domainkits.com/search/new](https://domainkits.com/search/new)**
 
-The fastest way to find newly registered domains matching what you care about. Type a keyword and get every matching domain registered in the last 60 days, from a rolling database of 12 million+ names.
+The fastest way to find newly registered domains matching what you care about. Type a keyword and get every matching domain registered in the last 60 days, a rolling window that holds 16 million+ names.
 
 What you can narrow by:
 
